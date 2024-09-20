@@ -1,4 +1,4 @@
-FROM quay.io/eclipse/che-java8-maven:nightly
+FROM docker.io/blairy/java8
 
 MAINTAINER tech-tejendra
 
